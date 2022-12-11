@@ -1,0 +1,50 @@
+B001, The Lord of the Rings, 1954, JRR Tolkien, true
+B002, The War of the Worlds, 1898, HG Wells, false
+B003, Fahrenheit 451, 1953, Ray Bradbury, true
+B004, Lord of the Flies, 1954, William Golding, true
+B005, Dune, 1965, Frank Herbert, false
+B006, Book Lovers, 2022, Emily Henry, false
+B007, Cocktails	for Book Lovers, 2014, Tessa Smith-McGovern, false
+B008, The Dutch House, 2019, Ann Patchett, false
+B009, Big friendship : how we keep each other close, 2020, Aminatou Sow, false
+B010, Caste : the origins of our discontents, 2020,  Isabel Wilkerson, false
+B011, Evil geniuses : the unmaking of America : a recent history, 2020, Kurt Andersen, true
+B012, Migrations, 2020, Kiley Reid, false
+B013, Luster, 2020, Raven Leilani, true
+B014, The order: a novel, 2020, Daniel Silva, true
+B015, Such a fun age : a novel, 2019, Kiley Reid, false
+B016, Hamnet : a novel of the plague, 2020, Maggie O'Farrell, false
+B017, Breath : the new science of a lost art, 2020,  James Nestor, false
+B018, Hood feminism : notes from the women that a movement forgot, 2020, Mikki Kendall, false
+B019, The guest list : a novel, 2020, Lucy Foley, false
+B020, Spells Trouble, 2021, Kristin Cast, false
+B021, Dirty Little Secrets, 2010, C. J.Omololu, true
+B022, The memory of fire, 2018,  Callie Bates, false
+B023, Lyme Disease, 2015, Alan Barbour, true
+B024, How the Finch Stole Christmas!, 2017, Donna Andrews, true
+B025, Splatoon, 2017, Sankichi Hinodeya, false
+B026, Cashing out : win the wealth game by walking away, 2022, Julien Saunders, false
+B027, Spanish phrasebook & dictionary, 2018, Victoria Carlton, false
+B028, Warriors : exile from ShadowClan, 2022, Dan Jolley, false
+B029, Blade breaker, 2022, Victoria Aveyard, false
+B030, American royalty, 2022, Tracey Livesay, false
+B031, Sculpture skills lab, 2020, Sandee Ewasiuk, true
+B032, The one with all the cross-stitch : 21 unofficial patterns for fans of Friends, 2021, Anna Selezneva, false
+B033, The lunar housewife : a novel, 2022, Caroline Woods, true
+B034, Just dance, 2022, Sarah Mlynowski, true
+B035, The German wife, 2022, Kelly Rimmer, false
+B036, Best friends forever, 2022, Samantha Brooke, false
+B037, Messi and Ronaldo : who is the greatest?, 2020, Illugi Jökulsson, false
+B038, Containers in the garden, 2022, Claus Dalby, false
+B039, Clause of death, 2022, Lorna Barrett, false
+B040, Cold cold bones, 2022, Kathy Reichs, false
+B041, Sci Fu : it takes 2, 2022, Yehudi Mercado, true
+B042, In the beautiful country, 2022, Jane Kuo, false
+B043, The NFT handbook, 2022, Matt Fortnow, true
+B044, Dele weds Destiny : a novel, 2022, Tomi Obaro, true
+B045, The complete guide to food allergies in adults and children, 2022, Scott Sicherer, false
+B046, Decimate, 2022, Christopher Rice, false
+B047, This vicious grace, 2022, Emily Thiede, false
+B048, The fort, 2022, Gordon Korman, false
+B049, Storm tide, 2022, Wilbur Smith, false
+B050, The Black girls left standing, 2022, Juliana Goodman, false

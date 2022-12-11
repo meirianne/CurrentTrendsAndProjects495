@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="CMSC495_Project.jnlp">
+  <information>
+    <title>CMSC495_Project</title>
+    <vendor>ryanb</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="CMSC495_Project.jar" size="13168" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="cmsc495_project.CMSC495_Project"  name="CMSC495_Project" />
+  <update check="always"/>
+</jnlp>
